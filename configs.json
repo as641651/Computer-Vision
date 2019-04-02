@@ -1,0 +1,59 @@
+{
+    "01_ImportantDatasets.ipynb": {
+        "code_url": "",
+        "page_id": 63201,
+        "page_name": "01_ImportantDatasets",
+        "pdf": false
+    },
+    "02_ImageClassification.ipynb": {
+        "code_url": "",
+        "page_id": 63202,
+        "page_name": "02_ImageClassification",
+        "pdf": false
+    },
+    "03_Localization_of_single_object.ipynb": {
+        "code_url": "",
+        "page_id": 63203,
+        "page_name": "03_Localization_of_single_object",
+        "pdf": false
+    },
+    "04_Object_Detection.ipynb": {
+        "code_url": "",
+        "page_id": 63204,
+        "page_name": "04_Object_Detection",
+        "pdf": false
+    },
+    "05_Semantic_segmentation.ipynb": {
+        "code_url": "",
+        "page_id": 63205,
+        "page_name": "05_Semantic_segmentation",
+        "pdf": false
+    },
+    "06_ObjectDetection_SemanticSeg_Models_CS231n.pdf": {
+        "code_url": "",
+        "page_id": 63206,
+        "page_name": "06_ObjectDetection_SemanticSeg_Models_CS231n",
+        "pdf": true
+    },
+    "07_VisualizingFilters_DeepDream_StyleTransfer.ipynb": {
+        "code_url": "",
+        "page_id": 63207,
+        "page_name": "07_VisualizingFilters_DeepDream_StyleTransfer",
+        "pdf": false
+    },
+    "author": "Aravind Sankaran",
+    "dir_path": "/home/sankaran/exercise/ML/Computer-Vision/",
+    "dir_static": "files",
+    "file_list": [
+        "01_ImportantDatasets.ipynb",
+        "02_ImageClassification.ipynb",
+        "03_Localization_of_single_object.ipynb",
+        "04_Object_Detection.ipynb",
+        "05_Semantic_segmentation.ipynb",
+        "06_ObjectDetection_SemanticSeg_Models_CS231n.pdf",
+        "07_VisualizingFilters_DeepDream_StyleTransfer.ipynb"
+    ],
+    "module_id": 63200,
+    "module_name": "Computer-Vision",
+    "tags": "BC"
+}
